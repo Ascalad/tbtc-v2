@@ -1,3 +1,4 @@
+tab
 :toc: macro
 
 = TBTC v2
